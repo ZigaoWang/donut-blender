@@ -18,7 +18,7 @@ I am following this [YouTube tutorial](https://www.youtube.com/watch?v=iv9p3x85T
 
 Here is a preview of my progress so far:
 
-![Donut Preview](path_to_your_image.jpg)
+![Donut Preview](https://github.com/ZigaoWang/donut-blender/blob/main/Preview.jpg?raw=true)
 
 ## Future Improvements
 
